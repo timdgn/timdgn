@@ -1,5 +1,5 @@
 # About Me:
-💊💻 French PharmD & Data Scientist<br>🎯 Looking to work on AI projects in the healthcare industry
+💊💻 French PharmD & Data Scientist working on AI projects in the healthcare industry
 
 
 ## Socials:

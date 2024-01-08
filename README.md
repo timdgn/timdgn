@@ -1,5 +1,5 @@
 ## About Me:
-💊 French Data Scientist & PharmD working on AI projects in the healthcare industry<br>
+💊 French Machine Learning Software Engineer & PharmD working on AI projects in the healthcare industry<br>
 🌱 I'm currently learning and improving on MLOps and Data Engineering
 
 ## Socials:

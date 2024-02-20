@@ -17,7 +17,7 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Misc Projects</th></tr>
+<tr><th>Miscellaneous</th></tr>
 <tr><td>
 
 |Title | Tech Stack|

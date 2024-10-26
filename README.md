@@ -22,8 +22,8 @@
 
 |Title | Tech Stack|
 |--|--|
-| [LLM & Image Generation Webapp](https://github.com/timdgn/LLM_webapp) | ![OpenAI API](https://img.shields.io/badge/OpenAI-%23412991?style=flat-square&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit) |
-| [Agent-based Modeling](https://github.com/timdgn/Agent-based-Modeling) | ![NetLogo](https://img.shields.io/badge/Net-Logo-green?style=flat-square)|
+| [LLM & Image Generation Webapp](https://github.com/timdgn/LLM_webapp) | ![OpenAI API](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=Streamlit) |
+| [Agent-based Modeling](https://github.com/timdgn/Agent-based-Modeling) | ![NetLogo](https://img.shields.io/badge/Net-Logo-black?style=flat-square)|
 
 
 </td></tr> </table>

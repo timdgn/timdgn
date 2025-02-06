@@ -1,5 +1,5 @@
 ## About Me:
-💊 French Machine Learning Software Engineer & PharmD working on AI projects in the healthcare industry<br>
+💊 French Healthcare Data Scientist & PharmD working on AI projects in the healthcare industry<br>
 🌱 I'm currently learning and improving on MLOps and Data Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timdangeon) 
